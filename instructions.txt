@@ -1,0 +1,9 @@
+first use this command
+
+python3 setup.py
+
+then next
+
+python3 nukes.py
+
+thats all
